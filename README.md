@@ -1,5 +1,3 @@
 # Simon-Game-02
-This is my first game program using html,css and js.
+This is my first game program using HTML , CSS and JAVASCRIPT.
 
-# user 
-Aadity aupadhayay
